@@ -1,0 +1,3 @@
+rootProject.name = 'TMNox2'
+
+include ':app'
